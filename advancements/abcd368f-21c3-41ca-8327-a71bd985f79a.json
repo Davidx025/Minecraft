@@ -1,13 +1,74 @@
 {
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_planks": "2023-12-16 23:31:55 -0500"
+      "unlock_right_away": "2023-12-16 23:30:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2023-12-16 23:30:18 -0500",
+      "minecraft:savanna": "2023-12-17 00:24:21 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-12-16 23:30:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-12-16 23:31:20 -0500"
     },
     "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2023-12-16 23:31:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2023-12-16 23:31:55 -0500"
     },
     "done": true
   },
@@ -23,18 +84,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2023-12-16 23:33:04 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-12-16 23:31:55 -0500"
@@ -47,27 +96,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2023-12-16 23:33:04 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-12-16 23:31:55 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2023-12-16 23:30:15 -0500"
     },
     "done": true
   },
@@ -83,41 +114,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2023-12-16 23:31:55 -0500"
     },
     "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2023-12-16 23:31:20 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna_plateau": "2023-12-16 23:30:18 -0500"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -125,21 +126,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2023-12-16 23:33:04 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2023-12-16 23:30:39 -0500"
+      "has_planks": "2023-12-16 23:31:55 -0500"
     },
     "done": true
   },
@@ -149,9 +138,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_planks": "2023-12-16 23:31:55 -0500"
+      "has_obsidian": "2023-12-16 23:33:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-12-16 23:33:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-12-16 23:33:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2023-12-17 00:22:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-17 00:21:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-12-17 00:24:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombified_piglin": "2023-12-17 00:24:44 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombified_piglin": "2023-12-17 00:24:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-12-17 00:22:53 -0500"
     },
     "done": true
   },
